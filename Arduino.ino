@@ -14,7 +14,7 @@ int IN2 = D7;
 int IN3 = D4;
 int IN4 = D3;
 int EN1 = D2;  
-               // Pin 1 of L293D IC, D6 Pin of NodeMCU
+// Pin 1 of L293D IC, D6 Pin of NodeMCU
 int EN2 = D1; 
 const int autopin = D0;
 
